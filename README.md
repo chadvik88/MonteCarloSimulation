@@ -4,7 +4,7 @@
 *Author:* Charvik Reddy Mukku  
 *Duration:* 8 months (with pauses, learning, and refining)
 
-![Project demonstration](images/heston_simulation.png)
+![Project demonstration](images/heston simulation and payoff distribution charts on local.png)
 
 ## Introduction
 
